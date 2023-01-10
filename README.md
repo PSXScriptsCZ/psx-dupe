@@ -7,4 +7,4 @@ Preston tried to patch the duping 💀 but we wont stop until PSX is not P2W!
 
 Bank: Tier 2-8.
 
-# Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXScriptsCZ/psx-dupe/main/dupe.lua"))()```
+Script: ```loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXScriptsCZ/psx-dupe/main/dupe.lua"))()```
